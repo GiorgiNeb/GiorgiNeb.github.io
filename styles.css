@@ -57,7 +57,7 @@ body {
 .header a {
 	text-align: left;
 	display: block;
-	height: 1px;
+	height: 10px;
 }
 
 .header h1 {
